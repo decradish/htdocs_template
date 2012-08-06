@@ -1,0 +1,35 @@
+/*******************************************************
+@ This CSS file is created
+@ For     : htdocs_template
+@ On      : 25th Dec 2010
+@ By      : Liu Kangning
+@ Github  : https://github.com/decradish/htdocs_template
+@ Email   : liukangning@gmail.com
+@ QQ      : 410532598
+********************************************************/
+
+@charset "utf-8";
+/* CSS reset */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { margin:0; padding:0; }
+fieldset,img {border:0; } 
+ol,ul {list-style:none; } 
+h1,h2,h3,h4,h5,h6,button,input,select,textarea {font-size:100%;}
+button::-moz-focus-inner,input::-moz-focus-inner{padding:0; border:0;}
+table {border-collapse:collapse;border-spacing:0;}
+i, cite, em, var, dfn, address {font-style: normal;}
+/*body{font:12px/1.6 "微软雅黑", "宋体",Arial, Helvetica, sans-serif; background-color:#FFF;} */
+body{font:12px/1.6 Arial, Helvetica, sans-serif; background-color:#FFF;} 
+a{color: #7f7f7f;text-decoration: none;}
+a:hover{text-decoration: underline;}
+a:active, a:focus{outline:none}
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; font-size:0;}
+.clearfix{zoom:1;clear:both;}
+.clear{clear:both; height:0; line-height:0; font-size:0;}
+
+/***************
+@ Global Styles
+***************/
+
+/***************
+@ Login page
+***************/
